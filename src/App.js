@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Hello World!
+            Changes from the feature branch.
           </p>
         </header>
       </div>
